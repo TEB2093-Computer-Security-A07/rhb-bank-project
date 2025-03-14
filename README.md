@@ -1,1 +1,1 @@
-# rhb-bank-project
+# RHB Bank Project
