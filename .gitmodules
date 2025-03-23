@@ -1,0 +1,3 @@
+[submodule "rbac-demo"]
+	path = rbac-demo
+	url = git@github.com:FROST8ytes/rbac-demo.git
